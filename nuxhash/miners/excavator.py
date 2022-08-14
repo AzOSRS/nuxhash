@@ -30,7 +30,6 @@ ALGORITHMS = [
     'lyra2z',
     'x16r'
     ]
-NHMP_PORT = 3200
 
 
 class ExcavatorError(Exception):
